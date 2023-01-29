@@ -1,2 +1,0 @@
-# trialdrive
-git trial repo
